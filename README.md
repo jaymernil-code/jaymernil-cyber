@@ -25,7 +25,7 @@ I'm a Information Technology Graduate since 2019. I’m an aspiring cybersecurit
 - **Adobe Premiere** (Basic)
 - **Filmora** (Intermediate)
 
-#Programming
+# Programming
 - **HTML** (Intermediate)
 - **CSS** (Intermediate)
 - **Javascript** (Basic)
